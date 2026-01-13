@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#FFFF0000</color>
+    <color name="color_main">#9D97E0</color>
+    <color name="gray">#808080</color>
+    <color name="color_d7ecfa">#d7ecfa</color>
+    <color name="color_4BB93F">#4BB93F</color>
+    <color name="color_0097F7">#0097F7</color>
+    <color name="color_3D5AFE">#3D5AFE</color>
+    <color name="color_ccc">#cccccc</color>
+    <color name="color_AAA">#AAAAAA</color>
+    <color name="color_E2E2E2">#E2E2E2</color>
+    <color name="color_0000">#00000000</color>
+    <color name="color_10000000">#10000000</color>
+    <color name="color_20000000">#20000000</color>
+    <color name="color_40000000">#40000000</color>
+    <color name="color_60000000">#60000000</color>
+    <color name="color_50FFFFFF">#50FFFFFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="color_2B3238">#2B3238</color>
+    <color name="color_600c224b">#600c224b</color>
+    <color name="color_666">#666666</color>
+    <color name="color_454A69">#454A69</color>
+    <color name="color_333">#333333</color>
+    <color name="color_121B32">#121B32</color>
+    <color name="color_63677E">#63677E</color>
+    <color name="color_E6E6E6">#E6E6E6</color>
+    <color name="color_999">#999999</color>
+    <color name="color_FFDD0C">#FFDD0C</color>
+    <color name="color_FDEB98">#FDEB98</color>
+    <color name="color_F43B17">#F43B17</color>
+
+    <color name="black_50">#88000000</color>
+    <color name="black_15">#2D000000</color>
+
+    <color name="dd_win_bg">#8000</color>
+</resources>
